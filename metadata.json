@@ -1,0 +1,5 @@
+{
+  "name": "HaruList (하루리스트)",
+  "description": "스마트폰에 최적화된 심플한 캘린더 기반 To-Do 리스트 앱입니다. 날짜별 할 일을 관리하고 O/X 표시로 성취도를 기록하며, Gemini AI가 하루의 계획을 응원해줍니다.",
+  "requestFramePermissions": []
+}
